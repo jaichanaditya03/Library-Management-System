@@ -55,20 +55,6 @@ This system manages books and users in a library environment, providing function
 ### 4. Main Application
 - **LibraryManagementSystem.java**: Interactive menu-driven interface with complete functionality
 
-## How to Run
-
-### Compilation and Execution
-```bash
-javac *.java
-java LibraryManagementSystem
-```
-
-The system will start with pre-loaded sample data and present an interactive menu with options for:
-- Book management (add, remove, search, display)
-- User management (register, remove, view)
-- Library operations (issue books, return books)
-- Reports and statistics
-- Transaction history
 
 ## Screenshots and Output Examples
 
@@ -103,12 +89,6 @@ The system will start with pre-loaded sample data and present an interactive men
 ### Error Handling
 ![Error Handling](images/error_handling.png)
 *Examples of error handling for invalid operations*
-
-> **Note:** To add screenshots to your GitHub repository:
-> 1. Create an `images` folder in your project root
-> 2. Take screenshots of the program output using `java LibraryManagementSystem`
-> 3. Save them with descriptive names (e.g., `main_menu.png`, `library_stats.png`)
-> 4. Commit and push the images folder to your repository
 
 ## System Capabilities
 
